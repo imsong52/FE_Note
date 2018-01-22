@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/li-xinyang/FEND_Note](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/li-xinyang/FEND_Note?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+> 本开源书 forked from [前端开发笔记本](https://github.com/li-xinyang/FE_Note)，作者为 [li-xinyang](https://github.com/li-xinyang)，欢迎大家 star 原作者的 [repo](https://github.com/li-xinyang/FE_Note)，以便获得最新更新，谢谢！
+
 点击[这里](https://www.gitbook.com/read/book/li-xinyang/frontend-notebook)开始在 GitBook 阅读！
 
 点击[这里](http://wiki.jikexueyuan.com/project/fend_note/)开始在极客学院 Wiki 阅读！（中国大陆访问速度较快）
